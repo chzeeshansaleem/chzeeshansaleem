@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a **Software Engineer** with over **3 years of experience** specializing in full-stack web development, software architecture, and agile delivery. I'm passionate about building scalable, high-performance applications that solve real business problems.
+I'm a **Software Engineer** with over **5 years of experience** specializing in full-stack web development, software architecture, and agile delivery. I'm passionate about building scalable, high-performance applications that solve real business problems.
 
 - 🔭 Currently working at **Focusteck** as a Software Engineer
 - 🌱 Continuously learning and exploring new technologies

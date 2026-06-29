@@ -83,12 +83,18 @@ I'm a **Software Engineer** with over **5 years of experience** specializing in 
 ### 🏢 Focusteck | Software Engineer
 **Oct 2023 – Present**
 
-- Architected scalable full-stack applications using MEAN stack, NestJS, and PostgreSQL
-- Developed robust REST APIs with JWT authentication and RBAC
-- Implemented real-time features using WebSockets and push notifications
-- Led database migrations and optimized query performance
-- Managed CI/CD pipelines using GitHub Actions, Docker, and AWS
-- Mentored junior developers and conducted code reviews
+- Architected and delivered scalable full-stack web applications using MEAN stack (Angular, NestJS, PostgreSQL, MongoDB) serving production workloads
+- Designed modular microservice-oriented backend platforms with NestJS featuring middleware, guards, and role-based access control (RBAC) using JWT authentication
+- Built robust RESTful APIs with security best practices and integrated third-party authentication and cloud services
+- Developed a PostgreSQL migration script handling parent-child relationships and FK dependencies; reset SERIAL/BIGSERIAL sequences to ensure zero ID conflicts post-migration
+- Exported and automated large JSON dataset migrations to AWS S3 for seamless data transfer
+- Implemented advanced UI/UX features including dynamic forms, dashboards, real-time notifications, file uploads, and data visualizations using Angular, Tailwind CSS, and Chart.js
+- Optimized database performance through complex query tuning, index optimization, and schema migrations via TypeORM, Mongoose, and raw SQL
+- Established CI/CD pipelines using GitHub Actions and Docker; managed deployments on AWS EC2 & S3 with secure secrets management
+- Mentored junior developers, enforced clean code standards, and conducted regular code reviews to improve team code quality
+- Collaborated with project managers, QA, and clients via JIRA in Agile/Scrum sprints, including planning, estimations, and retrospectives
+
+
 
 ### 🏢 Innoscript Technologies | MERN Stack Developer
 **Feb 2023 – July 2023**

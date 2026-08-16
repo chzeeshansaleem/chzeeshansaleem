@@ -14,6 +14,7 @@
 I'm a **Software Engineer** with over **5 years of experience** specializing in full-stack web development, software architecture, and agile delivery. I'm passionate about building scalable, high-performance applications that solve real business problems.
 
 - 🔭 Currently working at **Focusteck** as a Software Engineer
+- 🤖 Building AI-powered applications with **RAG (Retrieval-Augmented Generation)**, the **OpenAI API**, and vector databases
 - 🌱 Continuously learning and exploring new technologies
 - 💼 Expertise in **MERN & MEAN** stacks with modern tools like **NestJS** and **PostgreSQL**
 - 🎓 Bachelor of Electrical Engineering from **FAST-NUCES**
@@ -42,6 +43,15 @@ I'm a **Software Engineer** with over **5 years of experience** specializing in 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+### 🤖 AI & RAG
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-2E8B57?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-6E56CF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F9D58?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-10A37F?style=for-the-badge)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,6 +71,19 @@ I'm a **Software Engineer** with over **5 years of experience** specializing in 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [PDF RAG Assistant](https://github.com/chzeeshansaleem/pdf-rag-assistant)
+A production-quality PDF Question-Answering RAG agent — upload a PDF, ask questions in plain English, get answers grounded strictly in the document with page citations. Built the core retrieval-augmented generation pipeline directly on the **OpenAI SDK** and **Qdrant SDK** (no framework abstraction), with two-layer hallucination protection, a **React + TypeScript** frontend, and a **NestJS** backend.
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
